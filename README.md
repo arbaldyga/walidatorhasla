@@ -10,6 +10,7 @@ Opcjonalnie:
 - zawiera znaki specjalne
 
 ====
+
 Jeżeli wprowadzone hasło nie spełnia, wszystkich kryteriów z tych wymaganych:
 - tekst w paragrafie zmienia się z "Nie podałeś jeszcze hasła..." na: "Twoje hasło jest słabe", kolor czcionki zmienia się na "Tomato"
 
