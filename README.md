@@ -5,6 +5,7 @@ Hasło musi składać się z:
 - minimum 12 znaków
 - liter (bez rozróżniania na małe i duże)
 - cyfr
+
 Opcjonalnie:
 - zawiera znaki specjalne
 
